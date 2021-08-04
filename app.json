@@ -17,9 +17,12 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.nghghieu.githubseach",
+      "buildNumber": "1.0.0"
     },
     "android": {
+      "package": "com.nghghieu.githubseach",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
